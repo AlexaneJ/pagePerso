@@ -1,0 +1,2 @@
+businessCardBtn = document.querySelector("button");
+
